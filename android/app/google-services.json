@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "753159224441",
+    "firebase_url": "https://sastazon.firebaseio.com",
+    "project_id": "sastazon",
+    "storage_bucket": "sastazon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753159224441:android:5e8cb3579ed5b5dcd928a8",
+        "android_client_info": {
+          "package_name": "com.sastazon.sastazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753159224441-o332c9vbaqeatr3jl86h05363v68e19u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sastazon.sastazon",
+            "certificate_hash": "d91dedeecf78c6ebb30724722bba5ea6276387bc"
+          }
+        },
+        {
+          "client_id": "753159224441-6e71p3vmejbsvvc4h3u2r91n6iq24ra4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBELcU1bcfGkzVSgHwvA-vZhXF_55wv0a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753159224441-6e71p3vmejbsvvc4h3u2r91n6iq24ra4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
